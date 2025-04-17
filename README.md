@@ -1,5 +1,4 @@
-# 📘 Say It Türkçe
-
+# 📘 Say It Turkish
 **Say It Türkçe**, İngilizce kelimelerin ve cümlelerin **Türkçe okunuşlarını** öğrenmenizi sağlayan basit ama etkili bir masaüstü uygulamasıdır.
 
 ## 🚀 Özellikler
