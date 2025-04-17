@@ -15,11 +15,10 @@ Aşağıda uygulamanın basit ve kullanıcı dostu arayüzünü görebilirsiniz:
 
 ![Say It Turkish Ekran Görüntüsü](images/uygulama.png)
 
-> Not: `images/screenshot.png` yolundaki resmi projenin `images` klasörüne koymanız gerekir.
 
 ## 🛠️ Kurulum
 
-1. [Releases](https://github.com/kullaniciadi/projeadi/releases) bölümünden `SayItTurkce-setup.exe` dosyasını indirin.
+1. [Releases](https://github.com/mehmetesenn/Say_It_Turkish) bölümünden `SayItTurkce-setup.exe` dosyasını indirin.
 2. Kurulumu başlatın ve yönergeleri izleyin.
 3. Uygulamayı çalıştırarak İngilizce kelimelerin Türkçe okunuşlarını öğrenin!
 
@@ -32,3 +31,7 @@ Aşağıda uygulamanın basit ve kullanıcı dostu arayüzünü görebilirsiniz:
 ## 💡 Örnek
 
 **Girdi:**
+I need to use the bathroom 
+**Çıktı:**
+I (ay) need (n-ii-d) to (t-uu) use (y-uu-s) the (d-a) bathroom (b-e-t-r-uu-m) 
+
