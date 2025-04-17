@@ -27,6 +27,7 @@ Aşağıda uygulamanın basit ve kullanıcı dostu arayüzünü görebilirsiniz:
 1. İngilizce kelime ya da cümleyi üstteki kutuya yapıştırın.
 2. “Türkçe Okunuşunu Göster” butonuna tıklayın.
 3. Türkçe okunuşları alttaki pencerede görüntüleyin.
+4.Not:Çalışmaması durumunda güvenlik duvarını kapatıp deneyiniz.
 
 ## 💡 Örnek
 
