@@ -13,7 +13,7 @@
 
 Aşağıda uygulamanın basit ve kullanıcı dostu arayüzünü görebilirsiniz:
 
-![Say It Türkçe Ekran Görüntüsü](images/screenshot.png)
+![Say It Turkish Ekran Görüntüsü](images/uygulama.png)
 
 > Not: `images/screenshot.png` yolundaki resmi projenin `images` klasörüne koymanız gerekir.
 
