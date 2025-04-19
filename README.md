@@ -8,6 +8,7 @@
 - Okunuşlar **yeşil renkli ve net bir şekilde** gösterilir.
 - Kaydırılabilir giriş ve çıktı alanları sayesinde büyük metinlerle çalışmak kolaydır.
 - Yazı boyutunu isteğinize göre ayarlayabilirsiniz.
+- Kurulum bölümündeki drive linkinden programı indirip kurabilirsiniz.
 
 ## 🖼️ Ekran Görüntüsü
 
@@ -18,7 +19,7 @@ Aşağıda uygulamanın basit ve kullanıcı dostu arayüzünü görebilirsiniz:
 
 ## 🛠️ Kurulum
 
-1. [Releases](https://github.com/mehmetesenn/Say_It_Turkish) bölümünden `SayItTurkce-setup.exe` dosyasını indirin.
+1. [Drive](https://drive.google.com/drive/folders/1P72f3BAa3zbkuNtQTzm4-elGfjxkBZkO?usp=sharing) bölümünden `SayItTurkce-setup.exe` dosyasını indirin.
 2. Kurulumu başlatın ve yönergeleri izleyin.
 3. Uygulamayı çalıştırarak İngilizce kelimelerin Türkçe okunuşlarını öğrenin!
 
